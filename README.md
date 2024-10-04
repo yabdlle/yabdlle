@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Youssef</h1>
+<h1 align="center">Hi 👋, I'm Youssef Abdulle </h1>
 
 # 💫 About Me:
 Hi, I'm Youssef, a Computer Science student at the University of Minnesota, College of Science and Engineering, graduating in May 2026. I'm passionate about Full Stack Development and Machine Learning, and I'm always looking to apply my skills to real-world problems and innovative projects.
