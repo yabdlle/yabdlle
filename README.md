@@ -3,6 +3,11 @@
 # 💫 About Me:
 Hi, I'm Youssef, a Computer Science student at the University of Minnesota, College of Science and Engineering, graduating in May 2026. I'm passionate about Full Stack Development and Machine Learning, and I'm always looking to apply my skills to real-world problems and innovative projects.
 
+📫 How to reach me: youssefabdulle12@gmail.com
+
+🔗 Check out my portfolio: [yabdulle.com](http://yabdulle.com)
+
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yabdlle) 
